@@ -1,5 +1,5 @@
 {
-  "name": "learn-starter",
+  "name": "next-blog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,5 +15,9 @@
     "react-dom": "^17.0.2",
     "remark": "^13.0.0",
     "remark-html": "^13.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.27",
+    "typescript": "^4.4.3"
   }
 }
